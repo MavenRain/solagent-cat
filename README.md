@@ -181,3 +181,9 @@ This crate is built on the thesis proved in [comp-cat-theory](https://github.com
 ## License
 
 MIT OR Apache-2.0
+
+## Support Us
+Thank you for your support of this project! Your donations will help to maintain and develop this project.
+
+Solana: HJVTLCiSvCCNiyWBXPmZKXoZwyLULtqfUpH69UDSCga7
+Ethereum: 0x7349AD13a7A1BD41320112bC7c61c0815718E63f

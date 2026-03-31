@@ -1,6 +1,6 @@
 [package]
 name = "solagent-cat"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "Solana AI agent framework built on comp-cat-rs and rig-cat"
 license = "MIT OR Apache-2.0"
